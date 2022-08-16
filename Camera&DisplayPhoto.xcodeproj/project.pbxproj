@@ -17,6 +17,7 @@
 		6D92499028ABE6E7001F6B81 /* Camera_DisplayPhotoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D92498F28ABE6E7001F6B81 /* Camera_DisplayPhotoTests.swift */; };
 		6D92499A28ABE6E7001F6B81 /* Camera_DisplayPhotoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D92499928ABE6E7001F6B81 /* Camera_DisplayPhotoUITests.swift */; };
 		6D92499C28ABE6E7001F6B81 /* Camera_DisplayPhotoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D92499B28ABE6E7001F6B81 /* Camera_DisplayPhotoUITestsLaunchTests.swift */; };
+		6D9249A928ABE7A4001F6B81 /* *camera.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6D9249A828ABE7A4001F6B81 /* *camera.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6D92499528ABE6E7001F6B81 /* Camera&DisplayPhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Camera&DisplayPhotoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D92499928ABE6E7001F6B81 /* Camera_DisplayPhotoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_DisplayPhotoUITests.swift; sourceTree = "<group>"; };
 		6D92499B28ABE6E7001F6B81 /* Camera_DisplayPhotoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_DisplayPhotoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6D9249A828ABE7A4001F6B81 /* *camera.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "*camera.jpeg"; path = "../../../../../Documents/AP Shit/*camera.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6D92497928ABE6E2001F6B81 /* ViewController.swift */,
 				6D92497B28ABE6E2001F6B81 /* Main.storyboard */,
 				6D92498128ABE6E7001F6B81 /* Assets.xcassets */,
+				6D9249A828ABE7A4001F6B81 /* *camera.jpeg */,
 				6D92498328ABE6E7001F6B81 /* LaunchScreen.storyboard */,
 				6D92498628ABE6E7001F6B81 /* Info.plist */,
 				6D92497E28ABE6E2001F6B81 /* Camera_DisplayPhoto.xcdatamodeld */,
@@ -237,6 +240,7 @@
 				6D92498528ABE6E7001F6B81 /* LaunchScreen.storyboard in Resources */,
 				6D92498228ABE6E7001F6B81 /* Assets.xcassets in Resources */,
 				6D92497D28ABE6E2001F6B81 /* Main.storyboard in Resources */,
+				6D9249A928ABE7A4001F6B81 /* *camera.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
